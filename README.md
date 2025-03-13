@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+Mi repositorio para usar en clase de DAW
 <!--
+no lo voy a usar para cosas profesionales
 **frodpir696/frodpir696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
